@@ -97,7 +97,9 @@ class AppView extends StatelessWidget {
 
 /// Next Task -- Scrolling Perallex effect
 /// and Shimmer Effect
-
+/// profile screen -- upload images using image picker
+/// like list implement
+/// home page button selection 
 
 
 
