@@ -1,7 +1,8 @@
 # bloc_travelling
 
 ## Getting Started
-theme, parallax effect in scrolling
+
+# theme, parallax effect in scrolling
 
 <img src="https://github.com/user-attachments/assets/74b9daa6-0dbb-45a6-965d-f67372dbe9e8" alt="image1" height="742" width="380">
 <img src="https://github.com/user-attachments/assets/0fd339d8-22bd-4da8-ba7c-6f3d12128655" alt="image2" height="742" width="380">
