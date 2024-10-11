@@ -12,10 +12,9 @@
 <img src="https://github.com/user-attachments/assets/ef4f1562-a489-44f4-9d62-c1a0f0105ab0" alt="image6" height="742" width="380">
 <img src="https://github.com/user-attachments/assets/2faf435a-36ab-4536-ab57-7d509bfc2b83" alt="image7" height="742" width="380">
 
+<br><br> <!-- Adds two line breaks to create space -->
 
-
-
-/// ------------------------- BLOC DOCUMENT BY ME IN EASY LANGUAGE --------------------------- ///
+<h2>BLOC DOCUMENT BY ME IN EASY LANGUAGE</h2>
 
 Event --- ADD hote hai
 
