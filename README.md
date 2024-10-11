@@ -1,27 +1,24 @@
 # bloc_travelling
 
-A new Flutter project.
-
 ## Getting Started
+theme, parallax effect in scrolling
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/74b9daa6-0dbb-45a6-965d-f67372dbe9e8" alt="image1" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/0fd339d8-22bd-4da8-ba7c-6f3d12128655" alt="image2" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/cb2c8e72-4016-44bf-947b-c5a1b524ffce" alt="image3" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/b5b8dea6-a959-4b84-9ebd-d2905f385ae0" alt="image4" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/eb9ba8dc-9a34-4ff0-82a1-4163232278d2" alt="image5" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/ef4f1562-a489-44f4-9d62-c1a0f0105ab0" alt="image6" height="742" width="380">
+<img src="https://github.com/user-attachments/assets/2faf435a-36ab-4536-ab57-7d509bfc2b83" alt="image7" height="742" width="380">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 
 /// ------------------------- BLOC DOCUMENT BY ME IN EASY LANGUAGE --------------------------- ///
 
 Event --- ADD hote hai
-State --- Emit hote hai
-State(return me milte hai) --- Emit(nikalte, jate hai) hote hai,
+
+State --- Emit hote hai      --->>  [ State(return me milte hai) --- Emit(nikalte, jate hai) hote hai, ]
 
 ---->>> ui me user k interaction se event create hota hai or bloc me add hota hai, fir bloc us event ki requirement k 
         hisab se logic lagata hai (kam complete karta hai) or state emit karta hai(chodta hai) jo aek stream ki tarah kam karta hai.
