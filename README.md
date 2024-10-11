@@ -20,6 +20,10 @@ Event --- ADD hote hai
 
 State --- Emit hote hai      --->>  [ State(return me milte hai) --- Emit(nikalte, jate hai) hote hai, ]
 
+
+![image](https://github.com/user-attachments/assets/dafd8043-1235-4321-b907-a942e4a78c6c)
+
+
 ---->>> ui me user k interaction se event create hota hai or bloc me add hota hai, fir bloc us event ki requirement k 
         hisab se logic lagata hai (kam complete karta hai) or state emit karta hai(chodta hai) jo aek stream ki tarah kam karta hai.
         esliye yaha update karne k liye setstate or update or refresh methods ki requirement nahi hoti. 
